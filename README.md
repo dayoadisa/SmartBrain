@@ -2,7 +2,7 @@
 Image Recognition App
 
 Stack:
-React
+React and 
 NodeJS
 
 Link to webpage: https://smart-breyn.herokuapp.com/
